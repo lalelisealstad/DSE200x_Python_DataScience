@@ -15,3 +15,6 @@ deactivate
 Install libraries in virtual env: 
 $ pip install poetry
 $ poetry install 
+
+- download data sources and add to folder "data". 
+- open notebook, select kernel and click "Run all". 
